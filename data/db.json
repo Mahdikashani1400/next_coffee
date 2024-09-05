@@ -1,0 +1,154 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "icon": "faTruck",
+      "title": "Fastest Door Delivery",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "image": "service-1"
+    },
+    {
+      "id": "2",
+      "icon": "faCoffee",
+      "title": "Fresh Coffee Beans",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "image": "service-2"
+    },
+    {
+      "id": "3",
+      "icon": "faAward",
+      "title": "Best Quality Coffee",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "image": "service-3"
+    },
+    {
+      "id": "4",
+      "icon": "faTable",
+      "title": "Online Table Booking",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "image": "service-4"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Black Coffee",
+      "category": "Hot Coffee",
+      "price": "5",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "menu-1"
+    },
+    {
+      "id": "2",
+      "name": "Chocolete Coffee",
+      "category": "Hot Coffee",
+      "price": "7",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "menu-2"
+    },
+    {
+      "id": "3",
+      "name": "Coffee With Milk",
+      "category": "Hot Coffee",
+      "price": "9",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "menu-3"
+    },
+    {
+      "id": "4",
+      "name": "Ice Pack",
+      "category": "Cold Coffee",
+      "price": "12",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "menu-1"
+    },
+    {
+      "id": "5",
+      "name": "Ice Cream",
+      "category": "Cold Coffee",
+      "price": "16",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "menu-2"
+    },
+    {
+      "id": "6",
+      "name": "Cold Milk",
+      "category": "Cold Coffee",
+      "price": "6",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "menu-3"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "username": "hana",
+      "userRole": "Profession",
+      "userImage": "testimonial-1",
+      "productId": 5,
+      "body": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": "2",
+      "username": "Ali",
+      "userRole": "Profession",
+      "userImage": "testimonial-2",
+      "productId": 1,
+      "body": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": "3",
+      "username": "Ziba",
+      "userRole": "Profession",
+      "userImage": "testimonial-3",
+      "productId": 4,
+      "body": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": "4",
+      "username": "Ahmad",
+      "userRole": "Profession",
+      "userImage": "testimonial-4",
+      "productId": 2,
+      "body": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    },
+    {
+      "id": "5",
+      "username": "Yashar",
+      "userRole": "Profession",
+      "userImage": "testimonial-4",
+      "productId": 1,
+      "body": "Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor tempor ipsum sanct clita"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "username": "",
+      "email": "",
+      "subject": "",
+      "message": ""
+    },
+    {
+      "id": "df49",
+      "username": "x",
+      "email": "xssx",
+      "subject": "xsxs",
+      "message": "ss"
+    },
+    {
+      "id": "dffb",
+      "username": " xvffvr",
+      "email": "frferferf",
+      "subject": "g4refe",
+      "message": "gtrefer"
+    },
+    {
+      "id": "9054",
+      "username": "ewdew",
+      "email": "edwdeedde",
+      "subject": "wdedwedew",
+      "message": "ewdwedewdew"
+    }
+  ]
+}
